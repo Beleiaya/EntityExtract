@@ -15,7 +15,7 @@ BERT is used for Relation Extraction and Entity Extract
 
 
 
-## File Structure
+## 文件目录
 
 |name|function|
 |-|-|
@@ -26,7 +26,7 @@ BERT is used for Relation Extraction and Entity Extract
 |Detail.pdf |模型详细介绍 |
 
 
-## Environment Requirements
+## 环境要求
 + python 3.6+
 + Tensorflow 1.12.0+
 + Bert-base(uncased)
