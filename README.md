@@ -35,7 +35,7 @@ BERT is used for Relation Extraction and Entity Extract
 ### 基于Bert的级联模型
 #### （1）基于Bert关系分类模型训练
 ```
-run_classifier_predicate.py
+python run_classifier_predicate.py
 ```
 #### （2）基于Bert实体抽取（序列标注方法）模型训练
 ```
